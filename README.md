@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is **Sam** (she/her) and I'm a **Computer Science student**.  
+My name is **Samanta** (she/her) and I'm a **Computer Science student**.  
 I'm at the beginning of my journey as a developer and I'm passionate about technology, reading, and Star Wars ⭐🚀
 
 ### 👩‍💻 Technologies I'm learning:
